@@ -1,8 +1,8 @@
 @use 'var' as *;
 
 :root {
-    --h1-fs:#{$h1Max};
-    --par-fs:#{$parMax};
-    --btn-fs:#{$btnMax};
-    --num-fs:#{$numMax};
+    --h1-fs:#{$h1Min};
+    --par-fs:#{$parMin};
+    --btn-fs:#{$btnMin};
+    --spec-fs:#{$specMin};
 }

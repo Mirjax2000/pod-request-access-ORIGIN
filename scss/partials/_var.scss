@@ -1,4 +1,3 @@
-
 // ---------------------
 // Variables
 // ---------------------
@@ -7,31 +6,35 @@ $debug: false;
 
 // --- colors ---
 $clr10: #ffffff;
-$clr11: #969FAD;
-$clr12: #FC7614;
-$clr13: #262E38;
-$clr14: #131518;
-$clr15: #7C8798;
+$clr11: #54E6AF;
+$clr12: #121725;
+$clr13: #5A668A;
+$clr14: #C2CBE5;
+$clr15: #2C344B;
+$clr16: #FB3E3E;
 
 
-$backroundGradient: (
-    98.96% 98.96% at 50% 0%,
-    #232A34 0%,
-    #181E27 100%
-);
 // --- break points ---
-
+$sm: 576px;
+$md: 768px;
+$lg: 992px;
+$xl: 1200px;
+$xxl: 1400px;
 
 // --- font-sizes ---
 
-$h1Max: 1.75rem; //28px
-$h1Min: 1.5rem; //24px
+$h1Max: 3.1rem; //52px
+$h1Mid: 2.9rem; //48px
+$h1Min: 1.625rem; //26px
 
-$parMax: .9375rem; //15px
-$parMin: .875rem; //14px
+$parMax: 1.125rem; //18px
+$parMid: 1.125rem; //18px
+$parMin: .9375rem; //15px
 
-$btnMax: .9375rem; //15px
+$btnMax: .875rem; //14px
+$btnMid: .875rem; //14px
 $btnMin: .875rem; //14px
 
-$numMax: 1rem; //16px
-$numMin: .875rem; //14px
+$specMax: .75rem; //12px
+$specMid: .75rem; //12px
+$specMin: .75rem; //12px
