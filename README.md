@@ -6,3 +6,5 @@ https://2g2bt.eu/challenge/pod-request-ORIGIN/index.html
 
 zde jsem poprve pouzil komponenty z bootstrapu
 a take mobile first pristup.
+
+Javascript validace email formulare pres regex.
